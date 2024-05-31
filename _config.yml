@@ -2,7 +2,7 @@
 title: 三叶草国际语
 SEOTitle: 三叶草国际语 - 让沟通更容易
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
+email: xiaozhou20041231@163.com
 description: "中西融合, 即学即会, 从此不再辛苦背单词"
 keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
 url: "https://jjzqwq.github.io"          # your host, for absolute URL
@@ -11,8 +11,8 @@ github_repo: "https://github.com/JJZQWQ/jjzqwq.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "李秋睿天下第一!"
-sidebar-avatar: /img/404-bg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "你所热爱的就是你的生活!"
+sidebar-avatar: https://c-ssl.duitang.com/uploads/blog/202207/20/20220720231731_13371.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
