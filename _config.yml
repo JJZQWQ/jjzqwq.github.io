@@ -1,9 +1,9 @@
 # Site settings
-title: 给我点运气吧
-SEOTitle: 给我点运气的网页
-header-img: img/back-ground.png
+title: 陈佳兴的日常
+SEOTitle: 陈佳兴日常的网页
+header-img: img/the-secoud.jpg
 email: xiaozhou20041231@163.com
-description: "为什么说陈佳兴是个天才"
+description: "记录生活的点点滴滴"
 keyword: "陨落的天才"
 url: "https://jjzqwq.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -16,8 +16,8 @@ sidebar-avatar: /img/tou-xiang.png      # use absolute URL, seeing it's used in 
 
 
 # SNS settings
-RSS: false
-# weibo_username:     qiubaiying
+RSS: true
+ weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
 # github_username:    qiubaiying
 # facebook_username:  baiying.qiu.7
